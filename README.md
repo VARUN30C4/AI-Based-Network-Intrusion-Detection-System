@@ -21,3 +21,17 @@ and real-time traffic analysis.
 1. Clone the repository:
 ```bash
 git clone https://github.com/VARUN30C4/AI-Based-Network-Intrusion-Detection-System.git
+Go into the project:
+
+cd AI-Based-Network-Intrusion-Detection-System
+
+
+Install requirements:
+
+pip install -r requirements.txt
+
+
+Run the app:
+
+streamlit run nids_main.py
+
